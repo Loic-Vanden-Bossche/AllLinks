@@ -1,0 +1,9 @@
+{
+  "packageManager": "yarn@3.0.2",
+  "name": "AllLinks",
+  "private": true,
+  "workspaces": [
+    "api",
+    "front"
+  ]
+}
