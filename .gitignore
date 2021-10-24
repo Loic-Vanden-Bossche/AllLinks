@@ -3,4 +3,5 @@
 /front/node_modules/
 /api/dist/
 /front/dist/
+.yarn
 .env
